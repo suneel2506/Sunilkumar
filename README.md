@@ -33,7 +33,7 @@ Every project I work on helps me grow stronger as a developer and learner 💻�
 
 ### 📈 GitHub Streak & Visitors
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suneel2506&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/suneel2506/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=suneel2506&color=blue)
 
 
 ---
