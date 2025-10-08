@@ -1,7 +1,6 @@
-# 👋 Hey, I'm Sunil
+# 👋 Hi, I'm Sunil
 
-It’s a pleasure to introduce myself! I’m passionate about technology and development, constantly improving my skills to build creative and meaningful digital experiences.  
-Every project I work on helps me grow stronger as a developer and learner 💻✨
+I’m a passionate developer exploring frontend and full-stack development. I love building interactive projects, learning new technologies, and growing every day 💻✨
 
 ---
 
@@ -31,18 +30,20 @@ Every project I work on helps me grow stronger as a developer and learner 💻�
 
 ---
 
-### 📈 GitHub Streak & Visitors
+### 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suneel2506&theme=tokyonight)
-![Bike Visitor Count](https://your-generated-image-link.com/visitor-count.png)
 
+---
 
-
+### 🏍️ Bike-Themed Visitor Counter
+![Bike Visitor Counter](./bike-counter.svg)
+> *Updates automatically using GitHub Actions*
 
 ---
 
 ### 📫 Connect with Me
-🌐 [LinkedIn](www.linkedin.com/in/sunilkumar2596)  
-✉️ [Email](mailto:sk6001726@gmail.com)
+🌐 [LinkedIn](https://linkedin.com/in/your-linkedin)  
+✉️ [Email](mailto:youremail@gmail.com)
 
 ---
 
