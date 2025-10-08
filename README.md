@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -26,14 +26,18 @@
 ---
 
 ### 🎨 Skills Progress (Badges)
-![HTML & CSS - 90%](https://img.shields.io/badge/HTML%20&%20CSS-90%25-pink?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-60%25-lightblue?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML%20&%20CSS-90%25-pink?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/React-60%25-lightblue?style=for-the-badge">
+</p>
 
 ---
 ### 📈 Visitor Counter
-  ![Visitor Count](https://komarev.com/ghpvc/?username=suneel2506&color=blue)
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=suneel2506&color=blue">
+  </p>
 
 ---
 
