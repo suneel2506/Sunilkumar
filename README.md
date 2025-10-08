@@ -40,9 +40,10 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suneel2506&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneel2506&layout=compact&theme=radical" />
 </p>
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneel2506&layout=compact&theme=radical" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suneel2506&theme=radical" />
 </p>
@@ -51,8 +52,8 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  🌐 <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>  
-  ✉️ <a href="mailto:youremail@gmail.com">Email</a>  
+  🌐 <a href="www.linkedin.com/in/sunilkumar2596" target="_blank">LinkedIn</a>  
+  ✉️ <a href="mailto:sk6001726@gmail.com">Email</a>  
   🐦 <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a>
 </p>
 
