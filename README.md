@@ -32,9 +32,8 @@
 ![React](https://img.shields.io/badge/React-60%25-lightblue?style=for-the-badge)
 
 ---
-
 ### 📈 Visitor Counter
-![Visitor Count](https://badges.pufler.dev/visits/suneel2506?color=blue&style=for-the-badge)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=suneel2506&color=blue)
 
 ---
 
