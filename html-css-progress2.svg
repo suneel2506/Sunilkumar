@@ -3,6 +3,6 @@
   <rect width="160" height="30" rx="5" ry="5" fill="#00ff00">
     <animate attributeName="width" from="0" to="160" dur="1.5s" fill="freeze"/>
   </rect>
-  <text x="100" y="20" font-size="14" fill="#fff" text-anchor="middle" alignment-baseline="middle">JavaScript - 80%</text>
+  <text x="100" y="20" font-size="14" fill="#fff" text-anchor="middle" alignment-baseline="middle">HTML & CSS - 90%</text>
 </svg>
 
