@@ -21,23 +21,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suneel2506&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneel2506&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📈 GitHub Streak & Visitors
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suneel2506&theme=radical" />
-  <img src="https://badges.pufler.dev/visits/suneel2506?color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -47,6 +30,23 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-60%25-lightblue?style=for-the-badge)
+
+---
+
+### 📈 Visitor Counter
+![Visitor Count](https://badges.pufler.dev/visits/suneel2506?color=blue&style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suneel2506&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneel2506&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suneel2506&theme=radical" />
+</p>
 
 ---
 
