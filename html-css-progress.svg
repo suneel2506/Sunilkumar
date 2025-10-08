@@ -1,5 +1,0 @@
-<svg width="200" height="30" xmlns="http://www.w3.org/2000/svg">
-  <rect width="200" height="30" rx="5" ry="5" fill="#eee"/>
-  <rect width="180" height="30" rx="5" ry="5" fill="#ff69b4"/>
-  <text x="100" y="20" font-size="14" fill="#fff" text-anchor="middle" alignment-baseline="middle">HTML & CSS - 90%</text>
-</svg>
