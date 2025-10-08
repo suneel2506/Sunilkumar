@@ -26,7 +26,7 @@
 ---
 
 ### 🎨 Skills Progress (Badges)
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-90%25-green?style=for-the-badge)
+![HTML & CSS - 90%](https://img.shields.io/badge/HTML%20&%20CSS-90%25-pink?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-60%25-lightblue?style=for-the-badge)
