@@ -45,13 +45,13 @@
 ### 🎨 Skills Progress
 <p align="left">
   HTML & CSS  
-  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/html-css-progress.svg" width="200"/>  
+  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/html-css-progress.svg" width="200"/>  
   JavaScript  
-  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/js-progress.svg" width="200"/>  
+  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/js-progress.svg" width="200"/>  
   Python  
-  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/python-progress.svg" width="200"/>  
+  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/python-progress.svg" width="200"/>  
   React  
-  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/react-progress.svg" width="200"/>  
+  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/react-progress.svg" width="200"/>  
 </p>
 
 ---
