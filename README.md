@@ -42,23 +42,11 @@
 
 ---
 
-### 🎨 Skills Progress
-<p align="left">
-  HTML & CSS  
-  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/html-css-progress.svg" width="200"/>  
-  JavaScript  
-  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/js-progress.svg" width="200"/>  
-  Python  
-  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/python-progress.svg" width="200"/>  
-  React  
-  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/react-progress.svg" width="200"/>  
-</p>
-
----
-
-### 🏍️ Bike-Themed Visitor Counter
-![Bike Visitor Counter](https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/bike-counter.svg)  
-> *Updates automatically via GitHub Actions*
+### 🎨 Skills Progress (Badges)
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS-90%25-green?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-60%25-lightblue?style=for-the-badge)
 
 ---
 
