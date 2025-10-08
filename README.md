@@ -1,10 +1,16 @@
 # 👋 Hey, I'm Sunil  
 
-💻 **Frontend Developer & Tech Enthusiast**  
-🚀 Skilled in **HTML, CSS, JavaScript**, and passionate about **creative coding**  
-🌱 Currently exploring **full-stack development** and learning modern frameworks  
-🎨 Love blending logic with design to build interactive and meaningful web experiences  
-✨ Focused on growth, learning, and innovation  
+It’s a pleasure to introduce myself! I’m passionate about technology and development, constantly improving my skills to build creative and meaningful digital experiences.  
+Every project I work on helps me grow stronger as a developer and as a learner 💻✨  
+
+---
+
+### 💻 About Me  
+🚀 Frontend Developer in progress | Exploring Full-Stack Development  
+🧠 Skilled in **HTML, CSS, JavaScript**, and learning modern frameworks  
+💡 Interested in UI/UX, design, and creative coding  
+🎯 Focused on building clean, functional, and user-friendly projects  
+🌱 Always learning, always growing  
 
 ---
 
@@ -14,16 +20,17 @@ HTML • CSS • JavaScript • Python • Git • GitHub • VS Code
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suneel2506&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suneel2506&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suneel2506&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneel2506&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Connect with me  
+### 📫 Connect with Me  
 🌐 [LinkedIn](www.linkedin.com/in/sunilkumar2596)  
-✉️ [Email](mailtosk6001726@gmail.com)
+✉️ [Email](mailto:sk6001726email@gmail.com)
 
 ---
 
