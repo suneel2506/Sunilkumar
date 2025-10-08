@@ -36,8 +36,9 @@ I’m a passionate developer exploring frontend and full-stack development. I lo
 ---
 
 ### 🏍️ Bike-Themed Visitor Counter
-![Bike Visitor Counter](https://raw.githubusercontent.com/suneel2506/your-repo/main/bike-counter.svg)
+![Bike Visitor Counter](./bike-counter.svg)
 > *Number updates automatically via GitHub Actions*
+
 
 ---
 
