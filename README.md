@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Sunil
+# 👩‍💻 Hi, I'm Harinipriya
 
-I’m a passionate developer exploring frontend and full-stack development. I love building interactive projects, learning new technologies, and growing every day 💻✨
+I’m an aspiring full-stack developer, skilled in HTML, CSS, JS, C++, and Python. Currently learning Java, I enjoy building creative projects and improving every day 🌱✨
 
 ---
 
 ### 💻 About Me
-🚀 Frontend Developer in progress | Exploring Full-Stack Development  
-🧠 Skilled in **HTML, CSS, JavaScript**, and learning modern frameworks  
-💡 Interested in UI/UX, design, and creative coding  
-🎯 Focused on building clean, functional, and user-friendly projects  
-🌱 Always learning, always growing
+🌱 Aspiring Full-Stack Developer | Exploring both frontend and backend technologies  
+🧠 Skilled in **HTML, CSS, JavaScript, C++, and Python**  
+📘 Currently learning **Java**  
+💡 Love writing clean, structured, and efficient code  
+🎯 Aim: To create impactful projects and contribute to open-source
 
 ---
 
@@ -18,27 +18,23 @@ I’m a passionate developer exploring frontend and full-stack development. I lo
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suneel2506&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneel2506&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harinipriya1808&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinipriya1808&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suneel2506&theme=tokyonight)
-
----
-
-### 🏍️ Bike-Themed Visitor Counter
-![Bike Visitor Counter](./bike-counter.svg)
-> *Number updates automatically via GitHub Actions*
-
+### 📈 GitHub Streak & Visitors
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harinipriya1808&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=Harinipriya1808&color=blue)
 
 ---
 
@@ -48,5 +44,5 @@ I’m a passionate developer exploring frontend and full-stack development. I lo
 
 ---
 
-⭐ *“Code with passion, learn with purpose, and grow every single day.”*  
-*(he/him)*
+⭐ *“Keep learning, keep building — every line of code takes you closer to your dream.”*  
+*(she/her)*
