@@ -52,9 +52,9 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  🌐 <a href="www.linkedin.com/in/sunilkumar2596" target="_blank">LinkedIn</a>  
-  ✉️ <a href="mailto:sk6001726@gmail.com">Email</a>  
-  🐦 <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a>
+  🌐 <a href="www.linkedin.com/in/sunilkumar2596" target="_blank">LinkedIn</a>  <br>
+  ✉️ <a href="mailto:sk6001726@gmail.com">Email</a>  <br>
+  🐦 <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> <br>
 </p>
 
 ---
