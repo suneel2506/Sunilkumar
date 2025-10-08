@@ -45,19 +45,19 @@
 ### 🎨 Skills Progress
 <p align="left">
   HTML & CSS  
-  <img src="https://raw.githubusercontent.com/suneel2506/github-readme-assets/main/html-css-progress.svg" width="200"/>  
+  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/html-css-progress.svg" width="200"/>  
   JavaScript  
-  <img src="https://raw.githubusercontent.com/suneel2506/github-readme-assets/main/js-progress.svg" width="200"/>  
+  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/js-progress.svg" width="200"/>  
   Python  
-  <img src="https://raw.githubusercontent.com/suneel2506/github-readme-assets/main/python-progress.svg" width="200"/>  
+  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/python-progress.svg" width="200"/>  
   React  
-  <img src="https://raw.githubusercontent.com/suneel2506/github-readme-assets/main/react-progress.svg" width="200"/>  
+  <img src="https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/react-progress.svg" width="200"/>  
 </p>
 
 ---
 
 ### 🏍️ Bike-Themed Visitor Counter
-![Bike Visitor Counter](https://raw.githubusercontent.com/suneel2506/github-readme-assets/main/bike-counter.svg)  
+![Bike Visitor Counter](https://raw.githubusercontent.com/suneel2506/suneel2506/main/github-readme-assets/bike-counter.svg)  
 > *Updates automatically via GitHub Actions*
 
 ---
