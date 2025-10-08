@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="30">
-  <rect x="0" y="10" width="200" height="10" fill="#eee" rx="5"/>
-  <rect x="0" y="10" width="120" height="10" fill="#4caf50" rx="5"/>
-  <text x="100" y="25" font-size="12" text-anchor="middle" fill="#333">60%</text>
+<svg width="200" height="30" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="30" rx="5" ry="5" fill="#eee"/>
+  <rect width="160" height="30" rx="5" ry="5" fill="#00ff00">
+    <animate attributeName="width" from="0" to="160" dur="1.5s" fill="freeze"/>
+  </rect>
+  <text x="100" y="20" font-size="14" fill="#fff" text-anchor="middle" alignment-baseline="middle">Html & CSS - 90%</text>
 </svg>
+
