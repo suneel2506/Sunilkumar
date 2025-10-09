@@ -55,11 +55,19 @@
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-  🌐 <a href="www.linkedin.com/in/sunilkumar2596" target="_blank">LinkedIn</a>  <br>
-  ✉️ <a href="mailto:sk6001726@gmail.com">Email</a>  <br>
-  🐦 <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> <br>
-</p>
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; width: 300px; text-decoration: none;">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none;">
+    <img src="linkedin.png" alt="LinkedIn" width="50" />
+  </a>
+  <a href="mailto:youremail@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="gmail.png" alt="Email" width="50" />
+  </a>
+  <a href="https://x.com/yourusername" target="_blank" style="text-decoration: none;">
+    <img src="twitter.png" alt="X (Twitter)" width="50" />
+  </a>
+</div>
+
+
 
 ---
 
